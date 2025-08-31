@@ -5,8 +5,8 @@
   <img src="https://img.shields.io/github/stars/nolandcheng?style=flat-square&color=yellow" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/nolandcheng?style=flat-square&color=green" alt="GitHub Followers" />
 </p>
-
-<table>
+<div align="center">
+<table> 
 <tr>
 <td width="50%" valign="top">
 
@@ -45,6 +45,8 @@
 </table>
 
 ---
+
+</div>
 
 ### 📊 GitHub Activity  
 
